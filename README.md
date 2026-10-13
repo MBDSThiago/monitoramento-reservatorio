@@ -13,6 +13,7 @@ Projeto desenvolvido em Python para simular o monitoramento de um reservatório 
 
 - Python
 - Colorama
+
 ![Colorama](https://img.shields.io/badge/Colorama-Colors%20for%20Terminal-2ea44)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
